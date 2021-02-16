@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-#### About myself
+## About myself 
 
 - 📫 How to reach me: shangzhezhang@gmail.com
 
@@ -8,7 +8,7 @@
 
 - 🤔 I’m looking for help with a right learning path to bioinformatics algorithm developing
 
-### My collections of all kinds of badges (on the spur of the moment)
+## My collections of all kinds of badges (on the spur of the moment)
 
 Codewars ![codewars](https://www.codewars.com/users/bincheng/badges/small)
 
