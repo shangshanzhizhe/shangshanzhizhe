@@ -1,12 +1,18 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px">
 
-## About myself 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+## About me
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shangshanzhizhe&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 - 📫 How to reach me: shangzhezhang@gmail.com
 
 - 🌱 I’m currently learning mathematical and computional basis of bioinformatics algorithm
 
 - 🤔 I’m looking for help with a right learning path to bioinformatics algorithm developing
+
+###
 
 ## My collections of all kinds of badges (on the spur of the moment)
 
