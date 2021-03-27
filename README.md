@@ -8,9 +8,9 @@
 
 - 📫 How to reach me: shangzhezhang@gmail.com
 
-- 🌱 I’m currently learning mathematical and computional basis of bioinformatics algorithm
+- 🌱 I’m currently learning mathematical and computional basis of bioinformatics algorithms
 
-- 🤔 I’m looking for help with a right learning path to bioinformatics algorithm developing
+- 🤔 I’m looking for help with a right learning path to bioinformatics tools developing
 
 ###
 
