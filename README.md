@@ -18,7 +18,8 @@
 
 Codewars ![codewars](https://www.codewars.com/users/bincheng/badges/small)
 
-Waiting for updates...
+[freeCodeCamp Certification of **Data Analysis with Python**](https://www.freecodecamp.org/certification/bincheng/data-analysis-with-python-v7)
+
 
 <!--
 **shangshanzhizhe/shangshanzhizhe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
