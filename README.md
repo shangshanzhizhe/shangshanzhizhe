@@ -16,7 +16,7 @@
 
 ## My collections of all kinds of badges (on the spur of the moment)
 
-Codewars ![codewars](https://www.codewars.com/users/bincheng/badges/small)
+Codewars ![codewars](https://www.codewars.com/users/bincheng/badges/micro)
 
 [freeCodeCamp Certification of **Data Analysis with Python**](https://www.freecodecamp.org/certification/bincheng/data-analysis-with-python-v7)
 
