@@ -1,4 +1,4 @@
-# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">
+# Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
