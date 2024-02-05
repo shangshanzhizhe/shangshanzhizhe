@@ -12,7 +12,9 @@
 
 - 🤔 I’m looking for help with a right learning path to bioinformatics tools developing
 
-###
+### Academic Me
+
+<img src='https://github.com/shangshanzhizhe/Work_flow_of_population_genetics/blob/master/wordcloud.png' width='200'>
 
 ## My collections of all kinds of badges (on the spur of the moment)
 
